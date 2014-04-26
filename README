@@ -1,6 +1,2 @@
 A pthreads k-means clustering implementation.
 
-The project was developed as a part of the "Parallel & Distributed Systems" course at the Dept. of Electrical and 
-Computer Engineering, Aristotle Univeristy of Thessaloniki, Greece.
-
-Code needs some refactoring.
